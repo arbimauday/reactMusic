@@ -1,0 +1,5 @@
+url for allow request search
+https://beta.developer.spotify.com/console/get-search-item/?q=anji&type=artist&market=&limit=1&offset=
+
+url for allow request track album
+https://beta.developer.spotify.com/console/get-artist-top-tracks/?id=0b4XpbAVDPngjDTbcSWH8N&country=ES
